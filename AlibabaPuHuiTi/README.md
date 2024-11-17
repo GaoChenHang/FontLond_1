@@ -1,4 +1,4 @@
-# 阿里巴巴惠普体
+# 阿里巴巴普惠体
 ## [可商用字体](#使用协议)
 字体归属：[阿里巴巴（中国）有限公司](https://www.alibaba.com/)
 字体官网：[Alibaba fonts](https://alibabafonts.com)
